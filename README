@@ -1,0 +1,6 @@
+Windows command line program to record samples from a Adlink USB1901 DAQ.
+
+Install the 32bit Adlink UDASK C SDK headers and libraries in
+../include and ../lib respectively.
+
+Compile with Visual Studio 2010 or later.
