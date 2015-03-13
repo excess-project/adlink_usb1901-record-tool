@@ -155,7 +155,7 @@ static void print_usage(int argc, char** argv)
     printf("  -h                       Print this message and exit.\n");
     printf("  -o <file name>           Save the result in the named file.\n");
     printf("                           The default is 'data.csv'.\n");
-    printf("  -s <sample rate in Hz>   Set the sample rate in Hz. The default is 100 Hz.\n");
+    printf("  -s <sample rate in Hz>   Set the sample rate in Hz. The default is 200 Hz.\n");
     printf("  -c <channel id>:<range>  Add <channel id> to the set of sampled channels with\n");
     printf("                           the selected range. Ranges: 0 - +/-200mV;\n");
     printf("                           1 - +/-1.00V; 2 - +/-2.00V; 3 - +/-10.0V.\n");
